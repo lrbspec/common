@@ -11,5 +11,5 @@ count|u8|the number of riders in the track|
 ```
 name = common.riderdef
 version = 0
-flags = 00010010
+flags = 00010010 // data & physics
 ```
