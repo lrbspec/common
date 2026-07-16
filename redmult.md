@@ -2,7 +2,7 @@
 ## descriptions
 contains the fractional multipliers for acceleration lines.
 
-every time `base.simline` encounters an acceleration line it reads the next multiplier value from this mod’s list. it has one section:
+every time `base.simline` encounters an acceleration line it reads the next multiplier value from this mod’s list.
 
 ## data section
 name|type|description|
