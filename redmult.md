@@ -1,6 +1,6 @@
 # `common.redmult`
 ## descriptions
-contains the fractional multipliers for acceleration lines.
+contains the multipliers for acceleration lines.
 
 every time `base.simline` encounters an acceleration line it reads the next multiplier value from this mod’s list.
 
