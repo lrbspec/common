@@ -15,4 +15,5 @@ multipliers|f64[count]|one double precision float per red line.
 name = common.redmult
 version = 0
 flags = 00010010 // data | physics
+dependencies = base.simline version 0
 ```
